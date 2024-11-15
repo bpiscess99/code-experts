@@ -1,0 +1,17 @@
+.home-links{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.home-links li{
+    list-style: none;
+}
+
+.home-links li a{
+    text-decoration: none;
+}
+
+.home-button{
+    text-decoration: none;
+    padding: .5rem .8rem;
+}
